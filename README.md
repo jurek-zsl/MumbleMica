@@ -37,7 +37,7 @@ Mumble/
 1. Enabling Theme in Mumble
    - Open Mumble -> Settings -> User Interface -> In `Theme` choose `AcrylicTheme - Acrylic`
 2. Enable MicaForEveryone
-   - Open MicaForEveryone -> Add new rule -> Add proccess rule -> Search for `mumble` -> Change `Backdrop type` to 'None' -> Enable both switches in Advanced
+   - Open MicaForEveryone -> Add new rule -> Add proccess rule -> Search for `mumble` -> Change `Backdrop type` to `None` -> Enable both switches in Advanced
 ### Done! Enjoy your new theme.
 
 ## Preview
