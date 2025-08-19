@@ -30,7 +30,7 @@ It should look something like this:
 ```bash
 Mumble/
  └── themes/
-      └── MumbleTheme/
+      └── MumbleMica/
            └── AcrylicTheme.qss
 ```
 ### 3. Configuring
