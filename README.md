@@ -19,11 +19,11 @@ It uses **Qt Stylesheets (QSS)** with semi-transparent backgrounds, which allows
 > This is a prototype, some features might not work or not look like they should to.
 
 ### 1. Download
-Clone this repo or download it as a ZIP:
+1. Clone this repo or download it as a ZIP:
 ```bash
 git clone https://github.com/jurek-zsl/MumbleMica
 ```
-Download MicaForEveryone from [Microsoft Store](https://apps.microsoft.com/detail/9p8v68p4z78p?hl=en-US&gl=PL)
+2. Download MicaForEveryone from [Microsoft Store](https://apps.microsoft.com/detail/9p8v68p4z78p?hl=en-US&gl=PL)
 ### 2. Installing
 Copy or move `MumbleMica` folder into `%APPDATA%\Mumble\Mumble\themes\`.
 It should look something like this: 
