@@ -41,4 +41,4 @@ Mumble/
 ### Done! Enjoy your new theme.
 
 ## Preview
-![Preview image of the theme](https://ohiofiles.live/cd613c.png)
+![Preview image of the theme](https://ohiofiles.live/c78cbe.png)
