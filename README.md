@@ -14,7 +14,7 @@ It uses **Qt Stylesheets (QSS)** with semi-transparent backgrounds, which allows
 ---
 
 > [!NOTE]
-> MumbleMica only works with MicaForEveryone, no other apps have been tested (without MicaForEveryone the theme wouldn't work).
+> MumbleMica only works with MicaForEveryone, no other apps have been tested (without MicaForEveryone theme wouldn't work).
 
 > [!WARNING]  
 > This is a prototype, some features might not work or not look like they should to.
