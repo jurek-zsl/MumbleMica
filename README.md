@@ -6,7 +6,8 @@ It uses **Qt Stylesheets (QSS)** with semi-transparent backgrounds, which allows
 ---
 
 ## ℹ️ Features
-- Windows 11 **Mica/Acrylic style** with semi-transparent UI.  
+- Windows 11 **Mica/Acrylic style** with semi-transparent UI.
+- Works on both Windows and Linux (only tested on Garuda linux)  
 - Rounded corners, modern spacing, and Fluent Design colors.  
 - Styled menus, buttons, input fields, channel list, scrollbars, etc.  
 - Works with **dark mode** and lets the system background shine through.  
@@ -14,7 +15,7 @@ It uses **Qt Stylesheets (QSS)** with semi-transparent backgrounds, which allows
 ---
 
 > [!NOTE]
-> MumbleMica only works with MicaForEveryone, no other apps have been tested (without MicaForEveryone theme wouldn't work).
+> MumbleMica only works with MicaForEveryone, no other apps have been tested (without MicaForEveryone theme wouldn't work). On some linux it works by itself i have only tested it on Garuda.
 
 > [!WARNING]  
 > This is a prototype, some features might not work or not look like they should to.
@@ -27,7 +28,7 @@ It uses **Qt Stylesheets (QSS)** with semi-transparent backgrounds, which allows
 git clone https://github.com/jurek-zsl/MumbleMica
 ```
 2. Download MicaForEveryone from [Microsoft Store](https://apps.microsoft.com/detail/9p8v68p4z78p?hl=en-US&gl=PL)
-### 2. Installing
+### 2. Installing on windows
 Copy or move `MumbleMica` folder into `%APPDATA%\Mumble\Mumble\themes\`.
 It should look something like this: 
 ```bash
