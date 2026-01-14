@@ -15,10 +15,7 @@ It uses **Qt Stylesheets (QSS)** with semi-transparent backgrounds, which allows
 ---
 
 > [!NOTE]
-> MumbleMica only works with MicaForEveryone, no other apps have been tested (without MicaForEveryone theme wouldn't work). On some linux it works by itself i have only tested it on Garuda.
-
-> [!WARNING]  
-> This is a prototype, some features might not work or not look like they should to.
+> MumbleMica only works with MicaForEveryone, no other apps have been tested (without MicaForEveryone theme wouldn't work). On some linux it works by itself i have only tested it on `Garuda Linux`.
 
 ## 📩 Installation
 
@@ -28,8 +25,8 @@ It uses **Qt Stylesheets (QSS)** with semi-transparent backgrounds, which allows
 git clone https://github.com/jurek-zsl/MumbleMica
 ```
 2. Download MicaForEveryone from [Microsoft Store](https://apps.microsoft.com/detail/9p8v68p4z78p?hl=en-US&gl=PL)
-### 2. Installing on windows
-Copy or move `MumbleMica` folder into `%APPDATA%\Mumble\Mumble\themes\`.
+### 2. Installing on Windows
+Copy or move `MumbleMica` folder into `%APPDATA%\Mumble\Mumble\Themes\`.
 It should look something like this: 
 ```bash
 Mumble/
@@ -38,16 +35,12 @@ Mumble/
            └── AcrylicTheme.qss
 ```
 ### 3. Configuring
-1. Enabling Theme in Mumble
-   - Open Mumble -> Settings -> User Interface -> In `Theme` choose `AcrylicTheme - Acrylic`
-2. Enable MicaForEveryone
-   - Open MicaForEveryone -> Add new rule -> Add proccess rule -> Search for `mumble` -> Change `Backdrop type` to `None` -> Enable both switches in Advanced
-   - Open MicaForEveryone -> Select `Global` -> Inside change `Backdrop type` to `Acrylic`
+1. Enable MicaForEveryone
+   - Open MicaForEveryone -> Add new rule -> Add proccess rule -> Search for `mumble` -> Change `Backdrop type` to `None` -> Enable `Extend frame into client area` and `Enable blur behind` in Advanced
+   - Open MicaForEveryone -> Select `Global` -> Change `Backdrop type` to `Acrylic`
+2. Enabling Theme in Mumble
+   - Open Mumble -> Settings -> User Interface -> In `Theme` choose `AcrylicTheme - Acrylic` -> Restart Mumble Client
 ### Done! Enjoy your new theme.
 
-## 🌟 Star the Project
-
-If you find MumbleMica Theme good looking, please consider giving it a star on GitHub to help others discover it!
-
 ## 🖼️ Preview
-![Preview image of the theme](https://ohiofiles.live/c78cbe.png)
+![Preview image of the theme](https://api.dawer.xyz/XZQYT9)
