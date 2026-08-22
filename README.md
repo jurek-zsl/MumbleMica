@@ -43,4 +43,4 @@ Mumble/
 ### Done! Enjoy your new theme.
 
 ## 🖼️ Preview
-![Preview image of the theme](https://api.dawer.xyz/XZQYT9)
+![Preview image of the theme](https://api.ohiofiles.cloud/XZQYT9)
